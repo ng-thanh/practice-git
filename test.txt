@@ -3,8 +3,6 @@ desktop insert 2
 mb insert
 desktop inset 3
 desktop insert 4 on branch d1
-<<<<<<< HEAD
 desktop insert 5 on branch d1
-=======
->>>>>>> 5716b82 (commit desktop branch d1)
+laptop master m1
 	
